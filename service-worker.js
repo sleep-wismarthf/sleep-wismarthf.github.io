@@ -5,9 +5,9 @@
 
 const CACHE_NAME = 'koot-sw-cache'
 const urlsToCache = [
-    "/includes/entry.3a42c0484d1420d49c66.js",
     "/includes/entry.6f14f5da183215201cbc.js",
     "/includes/entry.ae0a0d92dcc05f2387a2.js",
+    "/includes/entry.bc19f4cedb9d33551f4b.js",
     "/includes/entry.f0d73cd50d582b76c7dc.js"
 ]
 
